@@ -1,0 +1,4 @@
+debian/
+repo/
+Gemfile.lock
+.gems/
