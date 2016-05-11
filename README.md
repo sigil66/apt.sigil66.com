@@ -7,7 +7,7 @@ Present here in case it might be useful for someone else.
 
 *Setup Build System*
 ```
-sudo apt-get install ruby2.3 ruby2.3-dev build-essential
+sudo apt-get install ruby2.3 ruby2.3-dev build-essential s3cmd
 sudo gem install bundler
 ```
 *Build/Publish APT Repo*
